@@ -579,3 +579,9 @@ Please, consider supporting me as it is a lot of work to maintain this list! Tha
 [oss]: /assets/opensource.svg
 [paid]: /assets/paid.svg
 [star]: /assets/star.svg
+
+<!-- fork-notice: start -->
+### Legal notice for this fork
+
+This repository is a fork of an upstream project. The original authors' licenses, copyrights and terms remain in force. Read the [Supplemental Fork Risk Notice](DISCLAIMER.md) for information about the fork maintainer's contributions. This notice does not amend upstream terms or waive mandatory rights.
+<!-- fork-notice: end -->
